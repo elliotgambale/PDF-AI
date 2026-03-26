@@ -1,0 +1,9 @@
+llama-index-embeddings-azure-openai 
+llama-index-llms-azure-openai 
+llama-index 
+requests 
+pypdf2
+docopt
+flask
+flask-cors
+werkzeug
